@@ -1,0 +1,1 @@
+/Users/philip/Documents/opencv/aruco_test/build/CMakeFiles/aruco_simple.dir

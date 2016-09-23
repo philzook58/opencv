@@ -1,0 +1,3 @@
+/Users/philip/Documents/opencv/cv3_test/CMakeFiles/edit_cache.dir
+/Users/philip/Documents/opencv/cv3_test/CMakeFiles/rebuild_cache.dir
+/Users/philip/Documents/opencv/cv3_test/CMakeFiles/myopencv_sample.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_mac_docs/opencv/visp/tutorial-viewer.cpp
+visp3/gui/vpDisplayX.h
+-
+visp3/gui/vpDisplayOpenCV.h
+-
+visp3/io/vpImageIo.h
+-
+

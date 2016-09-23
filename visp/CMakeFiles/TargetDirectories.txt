@@ -1,0 +1,1 @@
+/media/sf_mac_docs/opencv/visp/CMakeFiles/tutorial-viewer.dir
